@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+}
+.container img {
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    border: 2px solid hsl(0, 0%, 81%);
+}
